@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Authentication-Functionality/static/css/main.7e77d246.chunk.css",
+    "main.js": "/Authentication-Functionality/static/js/main.fbd30a20.chunk.js",
+    "main.js.map": "/Authentication-Functionality/static/js/main.fbd30a20.chunk.js.map",
+    "runtime-main.js": "/Authentication-Functionality/static/js/runtime-main.32525f36.js",
+    "runtime-main.js.map": "/Authentication-Functionality/static/js/runtime-main.32525f36.js.map",
+    "static/js/2.399ba0b9.chunk.js": "/Authentication-Functionality/static/js/2.399ba0b9.chunk.js",
+    "static/js/2.399ba0b9.chunk.js.map": "/Authentication-Functionality/static/js/2.399ba0b9.chunk.js.map",
+    "index.html": "/Authentication-Functionality/index.html",
+    "static/css/main.7e77d246.chunk.css.map": "/Authentication-Functionality/static/css/main.7e77d246.chunk.css.map",
+    "static/js/2.399ba0b9.chunk.js.LICENSE.txt": "/Authentication-Functionality/static/js/2.399ba0b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32525f36.js",
+    "static/js/2.399ba0b9.chunk.js",
+    "static/css/main.7e77d246.chunk.css",
+    "static/js/main.fbd30a20.chunk.js"
+  ]
+}
